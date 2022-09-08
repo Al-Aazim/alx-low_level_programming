@@ -1,1 +1,1 @@
-with proper grammar, but the outcome is a piece of art/n
+a script that generates the assembly code (Intel syntax) of a C code and save it in an output file/n
