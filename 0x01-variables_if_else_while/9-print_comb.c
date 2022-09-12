@@ -15,7 +15,7 @@ while (i < 58)
 {
 putchar(i);
 if (i != 57)
-{	
+{
 putchar(44);
 putchar(32);
 }
