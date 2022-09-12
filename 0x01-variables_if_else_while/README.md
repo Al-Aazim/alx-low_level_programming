@@ -1,1 +1,1 @@
-Numbers must be separated by ,/n
+The two digits must be different/n
