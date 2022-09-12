@@ -1,1 +1,1 @@
-Numbers/n
+Print possible numbers/n
