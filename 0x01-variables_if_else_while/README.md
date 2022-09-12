@@ -1,1 +1,1 @@
-Hexadecimal/n
+Numbers must be separated by ,/n
