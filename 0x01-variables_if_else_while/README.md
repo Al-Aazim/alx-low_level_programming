@@ -1,1 +1,1 @@
-Print possible numbers/n
+You can only use the putchar function every other function/n
