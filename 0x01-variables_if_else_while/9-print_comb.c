@@ -1,6 +1,6 @@
 #include <stdio.h>
+
 /**
-*
 * main - print single digit numbers
 *
 * Description: print single digit numbers with commas
