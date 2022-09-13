@@ -2,10 +2,7 @@
 
 /**
 * main - prints _putchar followed by a new line
-*
-*  Description: prints _putchar
-*
-* Return: 0 (Success);
+* Return: Always 0 (Success:)
 */
 int main(void)
 {
