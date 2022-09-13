@@ -1,5 +1,6 @@
-#include "_putchar.h"
-#include "main.h"
+#include <main.h>
+#include <_putchar.h>
+
 /**
 * main - prints _putchar
 *
@@ -15,6 +16,6 @@ for (i = 0; i < 9; i++)
 {
 _putcher(text[i])
 }
-_putchar('\n')
+_putchar('\n');
 return (0);
 }
