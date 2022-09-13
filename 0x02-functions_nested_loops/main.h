@@ -1,3 +1,3 @@
 int _putchar (char c);
-void print _putchar(void);
+void print_alphabet(void);
 int add(int, int);
