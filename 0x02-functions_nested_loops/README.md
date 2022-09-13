@@ -1,1 +1,1 @@
-putchar
+Alphabet'\n'
