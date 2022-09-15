@@ -1,4 +1,6 @@
+#include <math.h>
 #include "main.h"
+
 /**
 * power - exponents
 * @base: base
@@ -21,6 +23,7 @@ return (num);
 */
 
 void print_number(int n)
+{
 int negative = 0;
 int digit;
 int divisor;
