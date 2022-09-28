@@ -12,7 +12,6 @@ if (*s)
 _putchar(*s);
 _puts_recursion(s + 1);
 }
-else 
+else
 _putchar('\n');
 }
-
